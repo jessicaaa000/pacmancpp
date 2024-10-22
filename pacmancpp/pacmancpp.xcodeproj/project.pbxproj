@@ -27,6 +27,7 @@
 /* Begin PBXFileReference section */
 		1A567E642CC7FCDF00F795B1 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 		1A567E662CC7FD4D00F795B1 /* libglfw.3.4.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.4.dylib; path = ../../../../../opt/homebrew/Cellar/glfw/3.4/lib/libglfw.3.4.dylib; sourceTree = "<group>"; };
+		1A567E682CC8189700F795B1 /* pacmancpp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = pacmancpp; sourceTree = "<group>"; };
 		1A62B0D32CAC26E6002F69F4 /* pacmancpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = pacmancpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A62B0D62CAC26E6002F69F4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				1A62B0D52CAC26E6002F69F4 /* pacmancpp */,
+				1A567E682CC8189700F795B1 /* pacmancpp */,
 				1A62B0D42CAC26E6002F69F4 /* Products */,
 				1A567E632CC7FCDF00F795B1 /* Frameworks */,
 			);
