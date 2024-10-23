@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3fccdbefc8cc4deaa342db854b519a6ed916e7803860b090d81731a4a0da007e"
+    }
+  ],
+  "containerPath" : "/Users/jessicapawlowska/Documents/projects/pacmancpp/pacmancpp/pacmancpp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jessicapawlowska/Documents/projects/pacmancpp/pacmancpp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jessicapawlowska/Documents/projects/pacmancpp/pacmancpp/Build/Products",
+      "derivedDataPath" : "/Users/jessicapawlowska/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jessicapawlowska/Library/Developer/Xcode/DerivedData/pacmancpp-exqnkamngeutrwbwvvcrggmlezyi/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jessicapawlowska/Library/Developer/Xcode/DerivedData/pacmancpp-exqnkamngeutrwbwvvcrggmlezyi/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/jessicapawlowska/Documents/projects/pacmancpp/pacmancpp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
